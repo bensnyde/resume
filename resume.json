@@ -1,0 +1,164 @@
+{
+  "basics": {
+    "name": "Benton Snyder",
+    "label": "",
+    "picture": "",
+    "email": "benton@bensnyde.me",
+    "phone": "",
+    "website": "https://www.bensnyde.me",
+    "summary": "Lead Python Developer looking for a stimulating environment with a progressive company.",
+    "location": {
+      "city": "Albany",
+      "region": "NY",
+      "countryCode": "US"
+    },
+    "profiles": [
+      {
+        "network": "https://www.bensnyde.me",
+        "url": "https://www.bensnyde.me"
+      },
+      {
+        "network": "https://github.com/bensnyde",
+        "url": "https://github.com/bensnyde"
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "University of Advancing Technology",
+        "area": "Network Security",
+        "startDate": "2005",
+        "endDate": "2009",
+        "studyType": "B.S."
+      }
+    ],
+    "awards": [
+      {
+        "title": "2023 Performance Bonus",
+        "description": "Led major project changing commission payment structure in under 30 days."
+      },
+      {
+        "title": "2019 Performance Bonus",
+        "description": "Volunteered technical assistance to a major project that used our team’s data."
+      },
+      {
+        "title": "2018 Performance Bonus",
+        "description": "Led major project for a new client-facing Salesforce application that included integration with multiple internal systems."
+      }
+    ],
+    "publications": [],
+    "work": [
+      {
+        "company": "Centene Corporation",
+        "position": "Lead Application Software Engineer",
+        "website": "",
+        "startDate": "2018-04-01",
+        "endDate": null,
+        "summary": "Lead Python developer for an agile team with multiple Python applications including Django portals, Flask/Fast APIs, and Pub/Sub microservices",
+        "highlights": [
+          "Migrated legacy applications from Python 2 to 3, Postgres 9 to 13",
+          "Containerized applications using Docker and Kubernetes",
+          "Setup new Jenkins pipelines for CI/CD",
+          "Replaced batch processes with real-time streams using Kafka",
+          "Led multiple developers, contractors, and vendor integrations"
+        ]
+      },
+      {
+        "company": "Cybercon Incorporated",
+        "website": "",
+        "position": "Web Developer",
+        "startDate": "2011-09-01",
+        "endDate": "2018-01-01",
+        "summary": [
+          "Authored and enhanced multiple Joomla, WordPress and Magento plugins",
+          "Authored service automation scripts to provision, manage and audit the data center using Ansible and Fabric",
+          "Authored new Django-based Client Intranet with automated integrations into multiple vendors"
+        ]
+      },
+      {
+        "company": "MDNetLink",
+        "website": "",
+        "position": "Web Developer",
+        "startDate": "2008-08-01",
+        "endDate": "2011-08-01",
+        "summary": [
+          "Authored and enhanced multiple Joomla websites and extensions"
+        ]
+      },
+      {
+        "company": "Gartman Technical Services",
+        "website": "",
+        "position": "Web Developer",
+        "startDate": "2007-09-01",
+        "endDate": "2008-06-01",
+        "summary": [
+          "Authored and enhanced multiple Joomla websites and extensions"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Operating Systems",
+        "level": "",
+        "keywords": [
+          "Linux",
+          "Windows"
+        ]
+      },
+      {
+        "name": "Containerization & Orchestration",
+        "level": "",
+        "keywords": [
+          "Docker",
+          "Kubernetes",
+          "Istio"
+        ]
+      },
+      {
+        "name": "Web Development Frameworks",
+        "level": "",
+        "keywords": [
+          "Django",
+          "Flask",
+          "CodeIgniter",
+          "Magento",
+          "Joomla",
+          "WordPress"
+        ]
+      },
+      {
+        "name": "APIs & Protocols",
+        "level": "",
+        "keywords": [
+          "REST",
+          "SOAP",
+          "gRPC",
+          "GQL",
+          "Kafka",
+          "CometD",
+          "Pub/Sub"
+        ]
+      },
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+          "Apex",
+          "Javascript",
+          "HTML",
+          "Python",
+          "PHP",
+          "SQL"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [],
+    "references": []
+  }
+}
