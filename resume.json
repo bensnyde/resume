@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Benton Snyder",
-    "label": "Python Developer",
+    "label": "Lead Python Developer",
     "picture": "",
     "email": "benton@bensnyde.me",
     "phone": "",
@@ -35,17 +35,17 @@
     ],
     "awards": [
       {
-        "title": "2023 Performance Bonus",
-        "description": "Led major project changing commission payment structure in under 30 days."
+        "title": "2018 Performance Bonus",
+        "description": "Led major project for a new client portal within a condensed timeline that included multiple vendor and system integrations."
       },
       {
         "title": "2019 Performance Bonus",
-        "description": "Volunteered technical assistance to a major project that used our team’s data."
+        "description": "Volunteered technical assistance for a major project in response to a government audit."
       },
       {
-        "title": "2018 Performance Bonus",
-        "description": "Led major project for a new client-facing Salesforce application that included integration with multiple internal systems."
-      }
+        "title": "2023 Performance Bonus",
+        "description": "Led a major project to overhaul the commission structure in response to fraud in the marketplace, successfully completing it from notice to delivery within 4 weeks."
+      }      
     ],
     "publications": [],
     "work": [
@@ -55,7 +55,7 @@
         "website": "https://www.centene.com/",
         "startDate": "2018-04-01",
         "endDate": null,
-        "summary": "Lead Python developer for an agile team with multiple applications including Django portals, Flask/Fast APIs, and Pub/Sub microservices.",
+        "summary": "Lead Python developer for an agile team with multiple applications, APIs, microservices.",
         "highlights": [
           "Led multiple projects, developers, contractors, and vendor integrations.",
           "Full SDLC on multiple applications and microservices including Django, Flask and FastAPI.",
@@ -67,11 +67,12 @@
       },
       {
         "company": "Cybercon Incorporated",
-        "website": "",
+        "website": "https://cybercon.com/",
         "position": "Web Developer",
         "startDate": "2011-09-01",
         "endDate": "2018-01-01",
-        "summary": [
+        "summary": "",
+        "highlights": [
           "Authored and enhanced multiple Joomla, WordPress and Magento sites and plugins.",
           "Authored service automation scripts to provision, manage and audit the data center, products and services using Ansible and Fabric.",
           "Authored client portal with integrations into multiple vendors and systems using Django and API client libraries."
@@ -79,21 +80,23 @@
       },
       {
         "company": "MDNetLink",
-        "website": "",
+        "website": "https://mdnetlink.com/",
         "position": "Web Developer",
         "startDate": "2008-08-01",
         "endDate": "2011-08-01",
-        "summary": [
+        "summary": "",
+        "highlights": [
           "Authored and enhanced multiple Joomla websites and extensions."
         ]
       },
       {
         "company": "Gartman Technical Services",
-        "website": "",
+        "website": "https://gartmantechnical.com/",
         "position": "Web Developer",
         "startDate": "2007-09-01",
         "endDate": "2008-06-01",
-        "summary": [
+        "summary": "",
+        "highlights": [
           "Authored and enhanced multiple Joomla websites and extensions."
         ]
       }
@@ -101,7 +104,7 @@
     "skills": [
       {
         "name": "Operating Systems",
-        "level": "",
+        "level": "Expert",
         "keywords": [
           "Linux",
           "Windows"
@@ -109,7 +112,7 @@
       },
       {
         "name": "Containerization & Orchestration",
-        "level": "",
+        "level": "Expert",
         "keywords": [
           "Docker",
           "Kubernetes",
@@ -122,7 +125,7 @@
       },
       {
         "name": "Web Development Frameworks",
-        "level": "",
+        "level": "Expert",
         "keywords": [
           "Django",
           "Flask",
@@ -135,7 +138,7 @@
       },
       {
         "name": "APIs & Protocols",
-        "level": "",
+        "level": "Expert",
         "keywords": [
           "REST",
           "SOAP",
@@ -148,7 +151,7 @@
       },
       {
         "name": "Programming Languages",
-        "level": "",
+        "level": "Expert",
         "keywords": [
           "Apex",
           "Javascript",
