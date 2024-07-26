@@ -6,7 +6,7 @@
     "email": "benton@bensnyde.me",
     "phone": "",
     "website": "https://www.bensnyde.me",
-    "summary": "Lead Python Developer looking for a stimulating environment with a progressive company.",
+    "summary": "Lead Python Developer with over 10 years of experience in building and optimizing scalable web applications and microservices.",
     "location": {
       "region": "NY",
       "countryCode": "US"
@@ -59,7 +59,7 @@
         "highlights": [
           "Led multiple projects, developers, contractors, and vendor integrations.",
           "Full SDLC on multiple applications and microservices including Django, Flask and FastAPI.",
-          "Modernized legacy applications including Python 2 to 3, Postgres 9 to 13 and sync to async.",
+          "Modernized legacy applications including Python 2 to 3, sync to async implementations, and on-prem to AWS infrastructure.",
           "Replaced batch processes with real-time streams using Kafka and CometD.",
           "Containerized applications using Docker, Artifactory and Kubernetes.",
           "Created and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD."
@@ -71,7 +71,7 @@
         "position": "Web Developer",
         "startDate": "2011-09-01",
         "endDate": "2018-01-01",
-        "summary": "",
+        "summary": "Developed multiple websites, plugins and services for a data center and its clients using Python and PHP.",
         "highlights": [
           "Authored and enhanced multiple Joomla, WordPress and Magento sites and plugins.",
           "Authored service automation scripts to provision, manage and audit the data center, products and services using Ansible and Fabric.",
@@ -84,7 +84,7 @@
         "position": "Web Developer",
         "startDate": "2008-08-01",
         "endDate": "2011-08-01",
-        "summary": "",
+        "summary": "Developed websites and plugins using PHP.",
         "highlights": [
           "Authored and enhanced multiple Joomla websites and extensions."
         ]
@@ -95,7 +95,7 @@
         "position": "Web Developer",
         "startDate": "2007-09-01",
         "endDate": "2008-06-01",
-        "summary": "",
+        "summary": "Developed websites and plugins using PHP.",
         "highlights": [
           "Authored and enhanced multiple Joomla websites and extensions."
         ]
@@ -108,6 +108,15 @@
         "keywords": [
           "Linux",
           "Windows"
+        ]
+      },
+      {
+        "name": "Databases",
+        "level": "Expert",
+        "keywords": [
+          "PostgreSQL",
+          "MariaDB",
+          "Redis"
         ]
       },
       {
