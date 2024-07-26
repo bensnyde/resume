@@ -6,7 +6,7 @@
     "email": "benton@bensnyde.me",
     "phone": "",
     "website": "https://www.bensnyde.me",
-    "summary": "Lead Python Developer with over 10 years of experience in building and optimizing scalable web applications and microservices.",
+    "summary": "Lead Python Developer with over 10 years of experience in designing and developing scalable applications and microservices.",
     "location": {
       "region": "NY",
       "countryCode": "US"
@@ -44,7 +44,7 @@
       },
       {
         "title": "2023 Performance Bonus",
-        "description": "Led a major project to overhaul the commission structure in response to fraud in the marketplace, successfully completing it from notice to delivery within 4 weeks."
+        "description": "Led a major project to overhaul the commission structure in response to marketplace fraud, completing it from notice to delivery within 4 weeks."
       }      
     ],
     "publications": [],
@@ -55,7 +55,7 @@
         "website": "https://www.centene.com/",
         "startDate": "2018-04-01",
         "endDate": null,
-        "summary": "Lead Python developer for an agile team with multiple applications, APIs, microservices.",
+        "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
         "highlights": [
           "Led multiple projects, developers, contractors, and vendor integrations.",
           "Full SDLC on multiple applications and microservices including Django, Flask and FastAPI.",
