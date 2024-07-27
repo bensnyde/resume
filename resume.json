@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "$schema": "https://github.com/jsonresume/resume-schema/blob/v1.2.0/schema.json",
   "basics": {
     "name": "Benton Snyder",
     "label": "Lead Python Developer",
@@ -89,29 +89,33 @@
     "education": [
       {
         "institution": "University of Advancing Technology",
+        "url": "https://www.uat.edu/",
         "area": "Network Security",
+        "studyType": "Bachelor",
         "startDate": "2005",
         "endDate": "2009",
-        "studyType": "B.S.",
         "score": "",
         "courses": []
       }
     ],
     "awards": [
       {
-        "title": "2018 Performance Bonus",
-        "description": "Led major project for a new client portal within a condensed timeline that included multiple vendor and system integrations.",
-        "awarder": "Centene Corporation"
+        "title": "Performance Bonus",
+        "date": "2018-10-01",
+        "awarder": "Centene Corporation",
+        "summary": "Led major project for a new client portal within a condensed timeline that included multiple vendor and system integrations."
       },
       {
-        "title": "2019 Performance Bonus",
-        "description": "Volunteered technical assistance for a major project in response to a government audit.",
-        "awarder": "Centene Corporation"
+        "title": "Performance Bonus",
+        "date": "2019-03-15",
+        "awarder": "Centene Corporation",
+        "summary": "Volunteered technical assistance for a major project in response to a government audit."
       },
       {
-        "title": "2023 Performance Bonus",
-        "description": "Led a major project to overhaul the commission structure in response to marketplace fraud, completing it from notice to delivery within 4 weeks.",
-        "awarder": "Centene Corporation"
+        "title": "Performance Bonus",
+        "date": "2024-03-22",
+        "awarder": "Centene Corporation",
+        "summary": "Led a major project to overhaul the commission structure in response to marketplace fraud, completing it from notice to delivery within 4 weeks."
       }      
     ],
     "skills": [
