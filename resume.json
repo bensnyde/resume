@@ -36,7 +36,7 @@
       "startDate": "2018-04-01",
       "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
       "highlights": [
-        "Led multiple projects, developers, and contractors.",
+        "Led multiple projects, developers, contractors, and vendor integrations.",
         "Owned the full SDLC for multiple applications and microservices using Django, Flask, and FastAPI.",
         "Modernized legacy applications including Python 2 to 3, sync to async implementations, and on-prem to AWS infrastructure.",
         "Replaced batch processes with real-time streams using Kafka and CometD.",
