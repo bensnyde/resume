@@ -181,6 +181,11 @@
       }
     ],
     "interests": [],
-    "references": []
+    "references": [],
+    "meta": {
+      "version": "v1.2.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.2.0/schema.json",
+      "theme": "professional"
+    }
   }
 }
