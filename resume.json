@@ -56,7 +56,7 @@
       "highlights": [
         "Designed and developed websites and plugins using PHP, Joomla, WordPress, and Magento.",
         "Developed service automation scripts to provision, manage, and audit the data center, products and services using Python, Ansible, and Fabric.",
-        "Designed and developed company's client portal with integrations into multiple vendors and systems using Python, Django, and API client libraries."
+        "Created and maintained the company's client portal, integrating multiple vendors and systems using Python, Django, and API client libraries.""
       ]
     },
     {
@@ -89,7 +89,7 @@
       "institution": "University of Advancing Technology",
       "url": "https://www.uat.edu/",
       "area": "Network Security",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2005",
       "endDate": "2009"
     }
