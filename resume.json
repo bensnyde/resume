@@ -26,175 +26,175 @@
         "username": "benton-snyder",
         "url": "https://www.linkedin.com/pub/benton-snyder/37/491/5a1"
       }
-    ],
-    "work": [
-      {
-        "name": "Centene Corporation",
-        "location": "Saint Louis, MO",
-        "description": "Health insurance",
-        "position": "Lead Application Software Engineer",
-        "url": "https://www.centene.com/",
-        "startDate": "2018-04-01",
-        "endDate": null,
-        "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
-        "highlights": [
-          "Led multiple projects, developers, contractors, and vendor integrations.",
-          "Full SDLC on multiple applications and microservices including Django, Flask and FastAPI.",
-          "Modernized legacy applications including Python 2 to 3, sync to async implementations, and on-prem to AWS infrastructure.",
-          "Replaced batch processes with real-time streams using Kafka and CometD.",
-          "Containerized applications using Docker, Artifactory and Kubernetes.",
-          "Created and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD."
-        ]
-      },
-      {
-        "name": "Cybercon Incorporated",
-        "location": "Saint Louis, MO",
-        "description": "Data center", 
-        "position": "Web Developer",
-        "url": "https://cybercon.com/",
-        "startDate": "2011-09-01",
-        "endDate": "2018-01-01",
-        "summary": "Developed multiple websites, plugins and services for a data center and its clients using Python and PHP.",
-        "highlights": [
-          "Authored and enhanced multiple Joomla, WordPress and Magento sites and plugins.",
-          "Authored service automation scripts to provision, manage and audit the data center, products and services using Ansible and Fabric.",
-          "Authored client portal with integrations into multiple vendors and systems using Django and API client libraries."
-        ]
-      },
-      {
-        "name": "MDNetLink",
-        "location": "Saint Louis, MO",
-        "position": "Web Developer",
-        "url": "https://mdnetlink.com/",
-        "startDate": "2008-08-01",
-        "endDate": "2011-08-01",
-        "summary": "Developed websites and plugins using PHP.",
-        "highlights": [
-          "Authored and enhanced multiple Joomla websites and extensions."
-        ]
-      },
-      {
-        "name": "Gartman Technical Services",
-        "location": "Phoenix, AZ",
-        "position": "Web Developer",
-        "url": "https://gartmantechnical.com/",
-        "startDate": "2007-09-01",
-        "endDate": "2008-06-01",
-        "summary": "Developed websites and plugins using PHP.",
-        "highlights": [
-          "Authored and enhanced multiple Joomla websites and extensions."
-        ]
-      }
-    ],
-    "education": [
-      {
-        "institution": "University of Advancing Technology",
-        "url": "https://www.uat.edu/",
-        "area": "Network Security",
-        "studyType": "Bachelor",
-        "startDate": "2005",
-        "endDate": "2009",
-        "score": "",
-        "courses": []
-      }
-    ],
-    "awards": [
-      {
-        "title": "Performance Bonus",
-        "date": "2018-10-01",
-        "awarder": "Centene Corporation",
-        "summary": "Led major project for a new client portal within a condensed timeline that included multiple vendor and system integrations."
-      },
-      {
-        "title": "Performance Bonus",
-        "date": "2019-03-15",
-        "awarder": "Centene Corporation",
-        "summary": "Volunteered technical assistance for a major project in response to a government audit."
-      },
-      {
-        "title": "Performance Bonus",
-        "date": "2024-03-22",
-        "awarder": "Centene Corporation",
-        "summary": "Led a major project to overhaul the commission structure in response to marketplace fraud, completing it from notice to delivery within 4 weeks."
-      }      
-    ],
-    "skills": [
-      {
-        "name": "Operating Systems",
-        "level": "Expert",
-        "keywords": [
-          "Linux",
-          "Windows"
-        ]
-      },
-      {
-        "name": "Databases",
-        "level": "Expert",
-        "keywords": [
-          "PostgreSQL",
-          "MariaDB",
-          "Redis"
-        ]
-      },
-      {
-        "name": "Containerization & Orchestration",
-        "level": "Expert",
-        "keywords": [
-          "Docker",
-          "Kubernetes",
-          "Istio",
-          "Artifactory",
-          "Gitlab CI/CD",
-          "Jenkins",
-          "GitHub Actions"
-        ]
-      },
-      {
-        "name": "Web Development Frameworks",
-        "level": "Expert",
-        "keywords": [
-          "Django",
-          "Flask",
-          "FastAPI",
-          "CodeIgniter",
-          "Magento",
-          "Joomla",
-          "WordPress"
-        ]
-      },
-      {
-        "name": "APIs & Protocols",
-        "level": "Expert",
-        "keywords": [
-          "REST",
-          "SOAP",
-          "gRPC",
-          "GQL",
-          "Kafka",
-          "CometD",
-          "Pub/Sub"
-        ]
-      },
-      {
-        "name": "Programming Languages",
-        "level": "Expert",
-        "keywords": [
-          "Apex",
-          "JavaScript",
-          "HTML",
-          "Python",
-          "PHP",
-          "SQL"
-        ]
-      }
-    ],
-    "languages": [
-      {
-        "language": "English",
-        "fluency": "Native speaker"
-      }
-    ],
-    "interests": [],
-    "references": []
-  }
+    ]
+  },
+  "work": [
+    {
+      "name": "Centene Corporation",
+      "location": "Saint Louis, MO",
+      "description": "Health insurance",
+      "position": "Lead Application Software Engineer",
+      "url": "https://www.centene.com/",
+      "startDate": "2018-04-01",
+      "endDate": null,
+      "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
+      "highlights": [
+        "Led multiple projects, developers, contractors, and vendor integrations.",
+        "Full SDLC on multiple applications and microservices including Django, Flask and FastAPI.",
+        "Modernized legacy applications including Python 2 to 3, sync to async implementations, and on-prem to AWS infrastructure.",
+        "Replaced batch processes with real-time streams using Kafka and CometD.",
+        "Containerized applications using Docker, Artifactory and Kubernetes.",
+        "Created and maintained CI/CD pipelines using Jenkins and Gitlab CI/CD."
+      ]
+    },
+    {
+      "name": "Cybercon Incorporated",
+      "location": "Saint Louis, MO",
+      "description": "Data center", 
+      "position": "Web Developer",
+      "url": "https://cybercon.com/",
+      "startDate": "2011-09-01",
+      "endDate": "2018-01-01",
+      "summary": "Developed multiple websites, plugins and services for a data center and its clients using Python and PHP.",
+      "highlights": [
+        "Authored and enhanced multiple Joomla, WordPress and Magento sites and plugins.",
+        "Authored service automation scripts to provision, manage and audit the data center, products and services using Ansible and Fabric.",
+        "Authored client portal with integrations into multiple vendors and systems using Django and API client libraries."
+      ]
+    },
+    {
+      "name": "MDNetLink",
+      "location": "Saint Louis, MO",
+      "position": "Web Developer",
+      "url": "https://mdnetlink.com/",
+      "startDate": "2008-08-01",
+      "endDate": "2011-08-01",
+      "summary": "Developed websites and plugins using PHP.",
+      "highlights": [
+        "Authored and enhanced multiple Joomla websites and extensions."
+      ]
+    },
+    {
+      "name": "Gartman Technical Services",
+      "location": "Phoenix, AZ",
+      "position": "Web Developer",
+      "url": "https://gartmantechnical.com/",
+      "startDate": "2007-09-01",
+      "endDate": "2008-06-01",
+      "summary": "Developed websites and plugins using PHP.",
+      "highlights": [
+        "Authored and enhanced multiple Joomla websites and extensions."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Advancing Technology",
+      "url": "https://www.uat.edu/",
+      "area": "Network Security",
+      "studyType": "Bachelor",
+      "startDate": "2005",
+      "endDate": "2009",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "Performance Bonus",
+      "date": "2018-10-01",
+      "awarder": "Centene Corporation",
+      "summary": "Led major project for a new client portal within a condensed timeline that included multiple vendor and system integrations."
+    },
+    {
+      "title": "Performance Bonus",
+      "date": "2019-03-15",
+      "awarder": "Centene Corporation",
+      "summary": "Volunteered technical assistance for a major project in response to a government audit."
+    },
+    {
+      "title": "Performance Bonus",
+      "date": "2024-03-22",
+      "awarder": "Centene Corporation",
+      "summary": "Led a major project to overhaul the commission structure in response to marketplace fraud, completing it from notice to delivery within 4 weeks."
+    }      
+  ],
+  "skills": [
+    {
+      "name": "Operating Systems",
+      "level": "Expert",
+      "keywords": [
+        "Linux",
+        "Windows"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Expert",
+      "keywords": [
+        "PostgreSQL",
+        "MariaDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Containerization & Orchestration",
+      "level": "Expert",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "Istio",
+        "Artifactory",
+        "Gitlab CI/CD",
+        "Jenkins",
+        "GitHub Actions"
+      ]
+    },
+    {
+      "name": "Web Development Frameworks",
+      "level": "Expert",
+      "keywords": [
+        "Django",
+        "Flask",
+        "FastAPI",
+        "CodeIgniter",
+        "Magento",
+        "Joomla",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "APIs & Protocols",
+      "level": "Expert",
+      "keywords": [
+        "REST",
+        "SOAP",
+        "gRPC",
+        "GQL",
+        "Kafka",
+        "CometD",
+        "Pub/Sub"
+      ]
+    },
+    {
+      "name": "Programming Languages",
+      "level": "Expert",
+      "keywords": [
+        "Apex",
+        "JavaScript",
+        "HTML",
+        "Python",
+        "PHP",
+        "SQL"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [],
+  "references": []
 }
