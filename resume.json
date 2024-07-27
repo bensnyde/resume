@@ -30,7 +30,9 @@
         "area": "Network Security",
         "startDate": "2005",
         "endDate": "2009",
-        "studyType": "B.S."
+        "studyType": "B.S.",
+        "score": "",
+        "courses": []
       }
     ],
     "awards": [
