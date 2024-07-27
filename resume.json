@@ -54,9 +54,9 @@
       "endDate": "2018-01-01",
       "summary": "Developed multiple websites, plugins and services using Python and PHP.",
       "highlights": [
-        "Designed and developed multiple Joomla, WordPress, and Magento websites and plugins.",
-        "Developed service automation scripts to provision, manage, and audit the data center, products and services using Ansible and Fabric.",
-        "Designed and developed company's client portal with integrations into multiple vendors and systems using Django and API client libraries."
+        "Designed and developed multiple websites and plugins using PHP, Joomla, WordPress, and Magento.",
+        "Developed service automation scripts to provision, manage, and audit the data center, products and services using Python, Ansible, and Fabric.",
+        "Designed and developed company's client portal with integrations into multiple vendors and systems using Python, Django, and API client libraries."
       ]
     },
     {
