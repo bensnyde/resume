@@ -1,5 +1,5 @@
 {
-  "$schema": "https://github.com/jsonresume/resume-schema/blob/v1.2.0/schema.json",
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
   "basics": {
     "name": "Benton Snyder",
     "label": "Lead Python Developer",
@@ -197,8 +197,8 @@
     "interests": [],
     "references": [],
     "meta": {
-      "version": "v1.2.0",
-      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.2.0/schema.json",
+      "version": "v1.0.0",
+      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
       "theme": "professional"
     }
   }
