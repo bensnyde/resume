@@ -29,16 +29,16 @@
   "work": [
     {
       "position": "Lead Application Software Engineer",
-      "startDate": "2018-04-01",
-      "endDate": "2020-10-01"
+      "startDate": "2020-11-01"
     },
     {
       "name": "Centene Corporation",
       "location": "Saint Louis, MO",
       "description": "Health insurance",
-      "position": "Lead Application Software Engineer",
+      "position": "Senior Application Software Engineer",
       "url": "https://www.centene.com/",
-      "startDate": "2020-10-01",
+      "startDate": "2018-04-01",
+      "endDate": "2020-11-01",
       "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
       "highlights": [
         "Led multiple projects, developers, contractors, and vendor integrations.",
