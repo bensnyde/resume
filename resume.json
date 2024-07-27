@@ -195,11 +195,6 @@
       }
     ],
     "interests": [],
-    "references": [],
-    "meta": {
-      "version": "v1.0.0",
-      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/sample.resume.json",
-      "theme": "professional"
-    }
+    "references": []
   }
 }
