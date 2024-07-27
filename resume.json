@@ -28,12 +28,17 @@
   },
   "work": [
     {
+      "position": "Lead Application Software Engineer",
+      "startDate": "2018-04-01",
+      "endDate": "2020-10-01"
+    },
+    {
       "name": "Centene Corporation",
       "location": "Saint Louis, MO",
       "description": "Health insurance",
       "position": "Lead Application Software Engineer",
       "url": "https://www.centene.com/",
-      "startDate": "2018-04-01",
+      "startDate": "2020-10-01",
       "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
       "highlights": [
         "Led multiple projects, developers, contractors, and vendor integrations.",
@@ -56,7 +61,7 @@
       "highlights": [
         "Designed and developed websites and plugins using PHP, Joomla, WordPress, and Magento.",
         "Developed service automation scripts to provision, manage, and audit the data center, products and services using Python, Ansible, and Fabric.",
-        "Created and maintained the company's client portal, integrating multiple vendors and systems using Python, Django, and API client libraries.""
+        "Created and maintained the company's client portal, integrating multiple vendors and systems using Python, Django, and API client libraries."
       ]
     },
     {
