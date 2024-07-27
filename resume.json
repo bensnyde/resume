@@ -38,7 +38,7 @@
       "highlights": [
         "Led multiple projects, developers, contractors, and vendor integrations.",
         "Owned the full SDLC for multiple applications and microservices using Django, Flask, and FastAPI.",
-        "Modernized legacy applications including Python 2 to 3, sync to async implementations, and on-prem to AWS infrastructure.",
+        "Modernized legacy applications including Python 2 to 3, sync to async, and on-prem to AWS.",
         "Replaced batch processes with real-time events using Kafka and CometD.",
         "Containerized applications using Docker, Artifactory and Kubernetes.",
         "Created and maintained CI/CD pipelines using Jenkins and Gitlab."
