@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Benton Snyder",
     "label": "Lead Python Developer",
@@ -8,8 +9,11 @@
     "url": "https://www.bensnyde.me",
     "summary": "Results-driven leader with a proven track record of building and leading high-performance teams to deliver impactful solutions and measurable business outcomes. Over 10 years of experience in designing and developing scalable applications and microservices.",
     "location": {
-      "address": "Albany, NY",
-      "countryCode": "US"
+      "address": "",
+      "postalCode": "",
+      "city": "Albany",
+      "countryCode": "US",
+      "region": "New York"
     },
     "profiles": [
       {
@@ -25,9 +29,11 @@
     ],
     "work": [
       {
-        "company": "Centene Corporation",
+        "name": "Centene Corporation",
+        "location": "Saint Louis, MO",
+        "description": "Health insurance",
         "position": "Lead Application Software Engineer",
-        "website": "https://www.centene.com/",
+        "url": "https://www.centene.com/",
         "startDate": "2018-04-01",
         "endDate": null,
         "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
@@ -41,9 +47,11 @@
         ]
       },
       {
-        "company": "Cybercon Incorporated",
-        "website": "https://cybercon.com/",
+        "name": "Cybercon Incorporated",
+        "location": "Saint Louis, MO",
+        "description": "Data center", 
         "position": "Web Developer",
+        "url": "https://cybercon.com/",
         "startDate": "2011-09-01",
         "endDate": "2018-01-01",
         "summary": "Developed multiple websites, plugins and services for a data center and its clients using Python and PHP.",
@@ -54,9 +62,10 @@
         ]
       },
       {
-        "company": "MDNetLink",
-        "website": "https://mdnetlink.com/",
+        "name": "MDNetLink",
+        "location": "Saint Louis, MO",
         "position": "Web Developer",
+        "url": "https://mdnetlink.com/",
         "startDate": "2008-08-01",
         "endDate": "2011-08-01",
         "summary": "Developed websites and plugins using PHP.",
@@ -65,9 +74,10 @@
         ]
       },
       {
-        "company": "Gartman Technical Services",
-        "website": "https://gartmantechnical.com/",
+        "name": "Gartman Technical Services",
+        "location": "Phoenix, AZ",
         "position": "Web Developer",
+        "url": "https://gartmantechnical.com/",
         "startDate": "2007-09-01",
         "endDate": "2008-06-01",
         "summary": "Developed websites and plugins using PHP.",
