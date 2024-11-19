@@ -23,10 +23,18 @@
   },
   "work": [    
     {
+      "name": "Centene Corporation",
+      "location": "Saint Louis, MO",
+      "description": "Health insurance",,
+      "url": "https://www.centene.com/",
       "position": "Principal Application Software Engineer",
       "startDate": "2024-11-17"
     },
     {
+      "name": "Centene Corporation",
+      "location": "Saint Louis, MO",
+      "description": "Health insurance",
+      "url": "https://www.centene.com/",
       "position": "Lead Application Software Engineer",
       "startDate": "2020-11-01",
       "endDate": "2024-11-16"
