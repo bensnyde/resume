@@ -2,14 +2,13 @@
   "$schema": "https://github.com/jsonresume/resume-schema/blob/v1.2.0/schema.json",
   "basics": {
     "name": "Benton Snyder",
-    "label": "Lead Python Developer",
+    "label": "Principal Python Developer",
     "image": "",
     "email": "benton@bensnyde.me",
     "phone": "",
     "url": "https://www.bensnyde.me",
     "summary": "Results-driven leader with 10+ years of experience designing and developing scalable applications and microservices. Proven success in building and leading high-performance teams to deliver impactful solutions and measurable business outcomes.",
     "location": {
-      "city": "Albany",
       "countryCode": "US",
       "region": "New York"
     },
@@ -26,14 +25,23 @@
       }
     ]
   },
-  "work": [
+  "work": [    
+    {
+      "name": "Centene Corporation",
+      "location": "Saint Louis, MO",
+      "description": "Health insurance",
+      "position": "Principal Application Software Engineer",
+      "url": "https://www.centene.com/",
+      "startDate": "2024-11-17"
+    },
     {
       "name": "Centene Corporation",
       "location": "Saint Louis, MO",
       "description": "Health insurance",
       "position": "Lead Application Software Engineer",
       "url": "https://www.centene.com/",
-      "startDate": "2020-11-01"
+      "startDate": "2020-11-01",
+      "endDate": "2024-11-16"
     },
     {
       "name": "Centene Corporation",
@@ -43,12 +51,12 @@
       "url": "https://www.centene.com/",
       "startDate": "2018-04-01",
       "endDate": "2020-11-01",
-      "summary": "Lead Python developer for an agile team with multiple applications, APIs, and microservices.",
+      "summary": "Principal Python developer for an agile team with multiple applications, APIs, and microservices.",
       "highlights": [
-        "Led multiple projects, developers, contractors, and vendor integrations.",
+        "Led multiple projects, developers, and contractors.",
         "Owned the full SDLC for multiple applications and microservices using Django, Flask, and FastAPI.",
         "Modernized legacy applications including Python 2 to 3, sync to async, and on-prem to AWS.",
-        "Replaced batch processes with real-time event0s using Kafka and CometD.",
+        "Replaced batch processes with real-time events using Kafka and CometD.",
         "Containerized applications using Docker, Artifactory and Kubernetes.",
         "Created and maintained CI/CD pipelines using Jenkins and Gitlab."
       ]
