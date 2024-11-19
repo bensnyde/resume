@@ -8,6 +8,11 @@
     "phone": "",
     "url": "https://www.bensnyde.me",
     "summary": "Results-driven leader with 10+ years of experience designing and developing scalable applications and microservices. Proven success in building and leading high-performance teams to deliver impactful solutions and measurable business outcomes.",
+    "location": {
+      "city": "",
+      "countryCode": "US",
+      "region": "New York"
+    },
     "profiles": [
       {
         "network": "GitHub",
